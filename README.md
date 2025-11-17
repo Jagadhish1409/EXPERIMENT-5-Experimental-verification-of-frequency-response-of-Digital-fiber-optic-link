@@ -14,7 +14,7 @@ To analyze the relationship between input and received signal of a 600nm fiber o
 - CRO (Cathode Ray Oscilloscope)  
 - 660 nm fiber cable  
 
----
+--
 
 ## THEORY
 
